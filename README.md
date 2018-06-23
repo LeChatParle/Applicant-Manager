@@ -1,6 +1,6 @@
-# Applicant-Manager
+# Applicant Manager
 
-An job applicant manager that allows Salesforce community users (CU) to apply for a
+A job applicant manager that allows Salesforce community users (CU) to apply for a
 position, allows for CUs to submit tickets if there is an issue,
 and allows for tracking the status of one's application. 
 
